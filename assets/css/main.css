@@ -1,0 +1,5 @@
+.bg-discord {
+    --tw-bg-opacity: 1;
+    background-color: rgb(118 127 247 / 1);
+    background-color: rgb(118 127 247 / var(--tw-bg-opacity));
+}
