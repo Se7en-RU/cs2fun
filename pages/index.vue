@@ -54,7 +54,7 @@ useHead({
 useHead({
 script: [
   {
-    src: `/js/particle-animation.js`,
+    src: `./js/particle-animation.js`,
     tagPosition: 'bodyClose'
   },
  ],
